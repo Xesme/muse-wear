@@ -2,11 +2,11 @@ name = Muse Theme
 description = Custom theme made fro Muse Wear website
 core = 7.x
 engine = phptemplate
-stylesheet[all][] = css/styles.css
+stylesheets[all][] = css/styles.css
 
 regions[header] = Header
 regions[sidebar_left] = Sidebar Left
 regions[content] = Content
 regions[sub_footer] = Sub Footer
-regions[help] = Help 
+regions[help] = Help
 regions[inline] = Inline
