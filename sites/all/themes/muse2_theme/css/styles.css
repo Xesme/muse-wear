@@ -1,0 +1,45 @@
+/*.content {
+  background-color: rgba(0, 0, 0, 0.5);
+}*/
+html {
+	/*background-color: lightgreen;*/
+  padding: 85px;
+}
+.nav {
+	/*background-color: red;*/
+}
+.header {
+	background-color: grey;
+  height: 45px;
+  margin-bottom: 100px;
+}
+.content-wrap{
+	/*background-color: teal;*/
+  margin: 0;
+  margin: 15px;
+  border: 2px solid red;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+.sub-footer{
+	/*background-color: green;*/
+}
+
+.nav-wrap,
+.header-wrap,
+.body-wrap,
+.sub-footer-wrap,
+.footer-wrap{
+	float: left; width:100%; clear:both;
+}
+
+.nav,
+.header,
+.body,
+.sub-footer{
+	width: 1200px;
+}
+
+div.region.region-header {
+  margin-top: 75px;
+}
