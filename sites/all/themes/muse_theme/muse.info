@@ -3,6 +3,7 @@ description = Custom theme made fro Muse Wear website
 core = 7.x
 engine = phptemplate
 stylesheets[all][] = css/styles.css
+stylesheets[all][] = css/print.css
 
 regions[header] = Header
 regions[sidebar_left] = Sidebar Left
@@ -10,3 +11,5 @@ regions[content] = Content
 regions[sub_footer] = Sub Footer
 regions[help] = Help
 regions[inline] = Inline
+features[] = name
+features[] = main_menu
