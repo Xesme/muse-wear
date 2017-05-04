@@ -2,7 +2,7 @@ name = Muse Theme
 description = Custom theme made fro Muse Wear website
 core = 7.x
 engine = phptemplate
-stylesheets[all][] = styles.css
+stylesheets[all][] = css/styles.css
 stylesheets[all][] = css/print.css
 
 regions[header] = Header
